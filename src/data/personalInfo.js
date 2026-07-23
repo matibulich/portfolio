@@ -29,8 +29,9 @@ export const personalInfo = {
     "Vivo en Córdoba, Argentina y cuento con formación en Publicidad y Marketing Digital, aunque hoy mi enfoque principal es el desarrollo de web. Me especializo en el ecosistema JavaScript, trabajando con Node.js, NextJS y ReactJS. Busco mi primera oportunidad laboral en el sector IT como Junior Developer, con disponibilidad para trabajar de forma remota o híbrida en Córdoba.",
 
   enlaces: {
-    cv: "#",
-    github: "https://github.com/matibulich",    linkedin: "https://www.linkedin.com/in/matias-bulich/",
+    cv: "/public/CV-MATIASBULICH.pdf",
+    github: "https://github.com/matibulich",
+    linkedin: "https://www.linkedin.com/in/matias-bulich/",
   },
 
   habilidadesBlandas: [
@@ -66,7 +67,7 @@ export const personalInfo = {
       institucion: "Codo a Codo",
       periodo: "2024",
     },
-       {
+    {
       titulo: "NextJS",
       subtitulo: "Desarrollo de aplicaciones web con NextJS",
       institucion: "Autodidacta",
